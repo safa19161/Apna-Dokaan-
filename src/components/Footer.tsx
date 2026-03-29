@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <img 
-              src="/logo.png" 
+              src="./logo.png" 
               alt="APNA DOKAAN Logo" 
               className="h-12 w-auto mb-4 object-contain rounded-lg bg-white p-1.5" 
             />
