@@ -22,7 +22,7 @@ export function Home() {
         <div className="bg-brand-green text-brand-light py-16 sm:py-24">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <img 
-              src="/logo.png" 
+              src="../logo.png" 
               alt="APNA DOKAAN Logo" 
               className="h-32 sm:h-48 w-auto mx-auto mb-8 object-contain rounded-2xl shadow-2xl bg-white p-4" 
             />
