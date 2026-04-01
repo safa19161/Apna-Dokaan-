@@ -61,7 +61,7 @@ export const products: Product[] = [
     title: "Kérastase Discipline Fluidealiste Anti-Frizz Shampoo | Sulphate-Free Shampoo for Frizzy Hair | Infused with Morpho-Kératine, Surface Perfector & High Precision Care Agent | 250ml",
     description: "SMOOTHENS HAIR & CONTROLS FRIZZ: Specially crafted for unruly, frizz-prone hair, the Kérastase Discipline Bain Fluidealiste Gentle Anti-Frizz Shampoo tames flyaways, smoothens hair fibre, and delivers lasting frizz control for 72 hours*.",
     price: 2600,
-    imageUrl: "https://m.media-amazon.com/images/I/41+QQ85qfCL._SX342_SY445_QL70_FMwebp_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61n7MBtTpQL._SL1500_.jpg",
     category: "Beauty",
     affiliateLink: "https://amzn.to/4te3dgk",
     featured: true,
@@ -94,4 +94,13 @@ export const products: Product[] = [
     category: "Home & Kitchen",
     affiliateLink: "https://amzn.to/410IOQ2",
   },
+  {
+    id: "9",
+    title: "FLYNGO Vintage Car Open Headlights Key Holder for Home Decor Stylish",
+    description: "Vintage Design: This key holder features a vintage car design with open headlights, perfect for a farmhouse or retro-inspired decor.",
+    price: 346.00,
+    imageUrl: "https://m.media-amazon.com/images/I/71O09dbZeaL._SL1500_.jpg",
+    category: "Home & Kitchen",
+    affiliateLink: "https://amzn.to/4sPvQ3M",
+  }
 ];
