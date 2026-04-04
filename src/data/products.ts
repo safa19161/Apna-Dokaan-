@@ -102,5 +102,14 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/71O09dbZeaL._SL1500_.jpg",
     category: "Home & Kitchen",
     affiliateLink: "https://amzn.to/4sPvQ3M",
+  },
+  {
+    id: "10",
+    title: "Magic 3D Pen with (20 in 1) 5M for 3D Printing with Speed Control, Advanced Temperature Regulation, OLED Display & Ergonomic Design – Compatible with Variety of Filaments.",
+    description: "Next-Gen Smart Technology: Equipped with intelligent control features for seamless 3D printing, making it ideal for artists, designers, hobbyists, and professionals.",
+    price: 1,859,
+    imageUrl: "https://m.media-amazon.com/images/I/51jkoGBksZL._SL1000_.jpg",
+    category: "Electronics",
+    affiliateLink: "https://amzn.to/4ca0spC",
   }
 ];
