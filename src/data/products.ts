@@ -111,5 +111,14 @@ export const products: Product[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51jkoGBksZL._SL1000_.jpg",
     category: "Electronics",
     affiliateLink: "https://amzn.to/4ca0spC",
+  },
+  {
+    id: "11",
+    title: "Retro Flip Clock - Flip Clock Vintage Desk Clock Digital Automatic Turning, Battery Operated Mechanical Desk Clock, Black - Ideal for Home, Office, Room Decor（Battery not Included",
+    description: "FLIP CLOCK SINGLE SIDED EFFORTLESS : The Retro Flip Down Clock's conveniently placed knob ensures timely adjustments with a graceful turn, evoking both simplicity and efficiency",
+    price: 3799,
+    imageUrl: "https://m.media-amazon.com/images/I/61usIp3mA4L._SL1500_.jpg",
+    category: "Electronics",
+    affiliateLink: "https://amzn.to/4tdUD1r",
   }
 ];
